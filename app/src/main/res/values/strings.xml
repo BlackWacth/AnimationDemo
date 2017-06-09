@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimationDemo</string>
+
+    <string-array name="items">
+        <item>PathInterpolator:#03A9F4</item>
+        <item>PropertyAnimator:#00BCD4</item>
+        <item>Reveal:#009688</item>
+        <item>Transitions:#4CAF50</item>
+    </string-array>
+
+</resources>
